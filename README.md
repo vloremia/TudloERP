@@ -19,20 +19,20 @@
 
 ERPNext as a monolith includes the following areas for managing businesses:
 
-1. [Accounting](https://erpnext.com/open-source-accounting)
-1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
-1. [CRM](https://erpnext.com/open-source-crm)
-1. [Sales](https://erpnext.com/open-source-sales-purchase)
-1. [Purchase](https://erpnext.com/open-source-sales-purchase)
-1. [HRMS](https://erpnext.com/open-source-hrms)
-1. [Project Management](https://erpnext.com/open-source-projects)
-1. [Support](https://erpnext.com/open-source-help-desk-software)
-1. [Asset Management](https://erpnext.com/open-source-asset-management-software)
-1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
-1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
-1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
-1. [And More](https://erpnext.com/docs/user/manual/en/)
+1. [Accounting](https://erp.tudlo.co/open-source-accounting)
+1. [Warehouse Management](https://erp.tudlo.co/distribution/warehouse-management-system)
+1. [CRM](https://erp.tudlo.co/open-source-crm)
+1. [Sales](https://erp.tudlo.co/open-source-sales-purchase)
+1. [Purchase](https://erp.tudlo.co/open-source-sales-purchase)
+1. [HRMS](https://erp.tudlo.co/open-source-hrms)
+1. [Project Management](https://erp.tudlo.co/open-source-projects)
+1. [Support](https://erp.tudlo.co/open-source-help-desk-software)
+1. [Asset Management](https://erp.tudlo.co/open-source-asset-management-software)
+1. [Quality Management](https://erp.tudlo.co/docs/user/manual/en/quality-management)
+1. [Manufacturing](https://erp.tudlo.co/open-source-manufacturing-erp-software)
+1. [Website Management](https://erp.tudlo.co/open-source-website-builder-software)
+1. [Customize ERPNext](https://erp.tudlo.co/docs/user/manual/en/customize-erpnext)
+1. [And More](https://erp.tudlo.co/docs/user/manual/en/)
 
 ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
