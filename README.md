@@ -4,7 +4,7 @@
     </a>
     <h2>TudloERP</h2>
     <p align="center">
-        <p>ERP made simple</p>
+        <p>TudloERP is built on top of ERPNEXT version 13</p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml)
