@@ -1,8 +1,8 @@
 <div align="center">
-    <a href="https://erpnext.com">
-        <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png" height="128">
+    <a href="https://erp.tudlo.co">
+        <img src="https://uploads-ssl.webflow.com/629c0ce3c8ec9f45d422cb35/629c0d27b9ecd270f992cc06_logox2.png" height="128">
     </a>
-    <h2>ERPNext</h2>
+    <h2>TudloERP</h2>
     <p align="center">
         <p>ERP made simple</p>
     </p>
